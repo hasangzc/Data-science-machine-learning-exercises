@@ -1,0 +1,15 @@
+Outlook,Temp,Humidity,Windy,Play
+Sunny,Hot,High,No wind,Yes
+Sunny,Hot,High,Windy,Yes
+Overcast,Hot,High,No wind,No
+Rainy,Mild,High,No wind,Yes
+Rainy,Cool,Normal,No wind,No
+Rainy,Cool,Normal,Windy,No
+Overcast,Cool,Normal,Windy,Yes
+Sunny,Mild,High,No wind,No
+Sunny,Cool,Normal,No wind,No
+Rainy,Mild,Normal,No wind,Yes
+Sunny,Mild,Normal,Windy,No
+Overcast,Mild,High,Windy,Yes
+Overcast,Hot,Normal,No wind,Yes
+Rainy,Mild,High,Windy,Yes
